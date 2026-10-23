@@ -7,6 +7,7 @@ The primary GitHub Pages repository used by the [Upload to Pages skill](https://
 - This repository and its GitHub Pages site are public. Do not upload sensitive, confidential, or identifying information.
 - A random URL is unlisted, not private. Anyone who receives or discovers the URL can open it.
 - StatiCrypt encrypts HTML only. Linked CSV, PDF, image, and other assets stay public.
+- Password-protected pages need a working HTTPS URL and certificate for browser decryption.
 - Expiry is delayed cleanup by a daily GitHub Actions job. It is not immediate revocation and cannot remove downloads, caches, or Git history.
 
 ## Pages setup
